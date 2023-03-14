@@ -1,0 +1,16 @@
+logs/
+vivado/
+.Xil/
+./vivado*
+
+*.jou
+*.log
+*.str
+
+*.bin
+*.elf
+*.hex
+*.map
+
+*.swp
+*.DS_Store
